@@ -1,0 +1,13 @@
+*
+{
+	font-family: 'Inter', sans-serif;
+	font-size: 10pt;
+}
+
+.main_container
+{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 50px;
+	padding-top: 150px;
+}
